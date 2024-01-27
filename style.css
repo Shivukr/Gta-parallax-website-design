@@ -1,0 +1,260 @@
+html,
+body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "lato" sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+
+.start{
+    background-image: url(gtamainp.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+    
+}
+.start_text{
+    font-size: 30px;
+    letter-spacing:10px;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    color: black;
+    background-color: aliceblue;
+    
+}
+
+.first_text{
+    font-family:cursive;
+    color:white;
+}
+
+
+
+.theft{
+    background-image: url(gtasan.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100%;
+    min-width: auto;
+    background-attachment: fixed;
+}
+
+
+
+.ptext{
+    font-size: 20px;
+    font-weight: 100;
+    text-align:center;
+    color: red;
+    
+}
+
+.new_text{
+    font-style:normal;
+    color:white;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    font-style: italic;
+    
+    
+}
+
+.pimg1{
+    background-image: url(gtaasan.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.text{
+    text-align: center;
+    
+    
+    text-transform: capitalize;
+    color: black;
+    text-decoration:underline;
+    background-image:white;
+    
+    
+}
+.oneplus{
+    background-image: url(pink\ city.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100%;
+}
+.Pink_city{
+    background-image: url(mainvice.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.main_vice1{
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-variant: small-caps;
+    color: pink;
+    
+}
+
+.main_vice{
+    color: pink;
+    text-align:center;
+    font-size: 30px;
+    text-transform:capitalize;
+    
+    
+    
+    
+}
+
+.pink11{
+    color: red;
+    size: 8px;
+}
+
+.vice11{
+    color: pink;
+}
+.san11{
+    size: 15px;
+    color: red;
+}
+
+.gta3{
+    background-image: url(gta3.jpg);
+    min-height: 100%;
+    background-position:100%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    width: 100%;
+
+    
+}
+
+.gta_3{
+    background-image: url(33.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.gtaa3{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200;
+    color: white;
+    font-variant:normal;
+
+}
+
+.heading3{
+
+    font: 100;
+    text-align: center;
+    color: red;
+}
+
+.gta3link{
+    color: red;
+}
+
+.gta4{
+    background-image: url(gta4.jpg);
+    min-height: 100%;
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.gtaa4{
+    background-image: url(4body.jpg);
+    background-position: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100%;
+}
+
+.gta_4{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200;
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+
+.heading4{
+    font-size: 30px;
+    text-transform: capitalize;
+    color: red;
+    background-color: white;
+    padding: 10px;
+}
+
+.linkgta4{
+    color: red;
+}
+
+.gta5{
+    background-image: url(gta\ 5.jpg);
+    min-height: 100%;
+    background-position: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+
+.gtaa_5{
+    background-image: url(gtaa5.jpg);
+    min-height: 100%;
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.gtaa5{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 200;
+    color: white;
+
+}
+
+.heading5{
+    color: red;
+    text-transform: capitalize;
+    font-size: 20px;
+    background-color: white;
+    padding: 10px;
+    font-weight: 400;
+
+}
+
+.linkgta5{
+    color: red;
+
+}
+
+.developer{
+    font-size: 30px;
+    color: red;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
